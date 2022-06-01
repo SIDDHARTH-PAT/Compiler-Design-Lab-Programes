@@ -10,4 +10,14 @@ keep the essence of the plan.
 
 ## Agenda:
 
-* [Introduction to compilers]
+* String Validator.
+* Multi line and single line .
+* Whitespace remover.
+* First().
+* Follow().
+* Left recursion.
+* Left factoring.
+* Recursive Descent Parser.
+* LL(1) Parser.
+* Operator Precedence parser.
+* Three Address Code.
